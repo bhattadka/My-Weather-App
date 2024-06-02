@@ -1,4 +1,4 @@
-# My Weathe App
+# My Weather App
 
 Welcome to My Weather App repository! This project is a simple web application that provides real-time weather information for any location. It is a simple Weather Application made by using HTML, CSS & JavaScript.
 
